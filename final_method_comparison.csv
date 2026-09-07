@@ -1,0 +1,4 @@
+Method,Architecture,Final Basis Rank,Accuracy (%),Training Time (sec)
+NMF,Shallow NMF,40,93.0,18.15441370010376
+DNBMF,Deep UBIL,20,96.0,16.81513237953186
+RDNBMF,Deep UBIL + Regularization,20,92.0,18.51731562614441
